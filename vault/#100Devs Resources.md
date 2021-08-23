@@ -1,9 +1,9 @@
 ---
-id: sgaqdtPUkIAyzfbtOdlGG
-title: Root
+id: QYtHz7f4vA4GyoAHqjgJb
+title: '#100Devs Resources'
 desc: ''
-updated: 1629706061036
-created: 1629666981893
+updated: 1629753671669
+created: 1629748863647
 ---
 
 # #100Devs Resources
@@ -11,6 +11,8 @@ created: 1629666981893
 Hi, I'm **bomboloni** (aka Sandy). This is a personal and idiosyncratic collection of links and resources that I've collected and found helpful as I [learn along with Leon](https://leonnoel.com/100devs/), and I thought that others might find it useful too, so here you are!
 
 This site is obviously still in it's early stages, and I imagine it continuing to evolve even as it becomes more 'finished'.
+
+# if I see this it worked!
 
 ## 🚀 Get Started
 
@@ -32,7 +34,17 @@ This site is obviously still in it's early stages, and I imagine it continuing t
 
 [Back-end Crash Course](https://www.youtube.com/watch?v=U8UnY9R9R0E)
 
-[[old-class-resources]]
+[[test]]
+
+[[another test]]
+
+[[still-testing]]
+
+[[New Note]]
+
+[[One More Test]]
+
+class resources
 
 ---
 

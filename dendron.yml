@@ -1,11 +1,9 @@
 version: 1
 vaults:
-    -
-        fsPath: templates
-        seed: dendron.templates
-        name: dendron.templates
-    -
-        fsPath: vault
+  - fsPath: templates
+    seed: dendron.templates
+    name: dendron.templates
+  - fsPath: vault
 useFMTitle: true
 useNoteTitleForLink: true
 noAutoCreateOnDefinition: true
@@ -16,33 +14,33 @@ mermaid: true
 useKatex: true
 autoFoldFrontmatter: true
 dev:
-    enablePreviewV2: true
+  enablePreviewV2: true
 lookup:
-    note:
-        selectionType: selectionExtract
+  note:
+    selectionType: selectionExtract
 journal:
-    dailyDomain: daily
-    name: journal
-    dateFormat: y.MM.dd
-    addBehavior: childOfDomain
-    firstDayOfWeek: 1
+  dailyDomain: daily
+  name: journal
+  dateFormat: y.MM.dd
+  addBehavior: childOfDomain
+  firstDayOfWeek: 1
 scratch:
-    name: scratch
-    dateFormat: y.MM.dd.HHmmss
-    addBehavior: asOwnDomain
+  name: scratch
+  dateFormat: y.MM.dd.HHmmss
+  addBehavior: asOwnDomain
 site:
-    copyAssets: true
-    siteHierarchies:
-        - root
-    siteRootDir: docs
-    usePrettyRefs: true
-    title: Dendron
-    description: Personal knowledge space
-    duplicateNoteBehavior:
-        action: useVault
-        payload:
-            - vault
-            - dendron.templates
+  copyAssets: true
+  siteHierarchies:
+    - '#100Devs Resources'
+  siteRootDir: docs
+  usePrettyRefs: true
+  title: 100Devs Resources
+  description: Personal knowledge space
+  duplicateNoteBehavior:
+    action: useVault
+    payload:
+      - vault
+      - dendron.templates
 initializeRemoteVaults: true
 seeds:
-    dendron.templates: {}
+  dendron.templates: {}

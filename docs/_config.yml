@@ -1,27 +1,43 @@
 # uncomment to preview locally
 #theme: "dendron-jekyll"
 remote_theme: dendronhq/dendron-jekyll
-title: Dendron
-logo: "/assets/images/logo.png"
-exclude: [ "node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "*/dendron.template.release.md"
-]
-footer_content: ""
+title: 100Devs_Resources
+logo: '/assets/images/logo.png'
+exclude:
+  [
+    'node_modules/',
+    '*.gemspec',
+    '*.gem',
+    'Gemfile',
+    'Gemfile.lock',
+    'package.json',
+    'package-lock.json',
+    'script/',
+    'LICENSE.txt',
+    'lib/',
+    'bin/',
+    'README.md',
+    'Rakefile',
+    '*/dendron.template.release.md',
+  ]
+footer_content: ''
 
 gh_edit_link: false
 
+siteIndex: '100Devs-resources.md'
+
 # seo
-tagline: "A better way to know"
-description: "Dendron is a local-first, markdown based, hierarchical note taking tool. It is meant to help you create, organize, and collaborate on knowledge bases of any size."
+tagline: 'We Go Get'
+description: 'An idiosyncratic collections of resources for the #100Devs / Learn With Leon community.'
 twitter:
   card: summary
-  username: dendronhq
+  username: bomboloni
 author:
-  twitter: dendronhq
+  twitter: Bomboloni
 
 defaults:
-  -
-    scope:
-      path: "notes" # an empty string here means all files in the project
+  - scope:
+      path: 'notes' # an empty string here means all files in the project
     values:
-      layout: "default"
-      image: "/assets/images/logo.png"
+      layout: 'default'
+      image: '/assets/images/logo.png'

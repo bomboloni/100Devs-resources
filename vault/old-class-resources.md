@@ -1,9 +1,9 @@
 ---
-id: ZCekj2LIIjVNKYtQSdcoB
-title: Class Resources
+id: yzo8IEGUrzzu2JyDGciNu
+title: Old Class Resources
 desc: ''
-updated: 1629754193316
-created: 1629754176775
+updated: 1629705842944
+created: 1629705793681
 ---
 
 ### [Slides](https://slides.com/leonnoel)
