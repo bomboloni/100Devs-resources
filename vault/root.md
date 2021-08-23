@@ -2,7 +2,7 @@
 id: sgaqdtPUkIAyzfbtOdlGG
 title: Root
 desc: ''
-updated: 1629669789406
+updated: 1629677003633
 created: 1629666981893
 ---
 
@@ -24,7 +24,9 @@ This site is obviously still in it's early stages, and it will continue to evolv
 ## Classes
 
 [A Short Class on Getting a Job](https://www.youtube.com/watch?v=x3-O-Ond9AI)
+
 [Front-end Crash Course](https://www.youtube.com/watch?v=eAe4GmiUm2I)
+
 [Back-end Crash Course](https://www.youtube.com/watch?v=U8UnY9R9R0E)
 
 ---
