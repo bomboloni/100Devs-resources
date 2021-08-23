@@ -2,7 +2,7 @@
 id: QYtHz7f4vA4GyoAHqjgJb
 title: '#100Devs Resources'
 desc: ''
-updated: 1629753671669
+updated: 1629755364079
 created: 1629748863647
 ---
 
@@ -34,17 +34,7 @@ This site is obviously still in it's early stages, and I imagine it continuing t
 
 [Back-end Crash Course](https://www.youtube.com/watch?v=U8UnY9R9R0E)
 
-[[test]]
-
-[[another test]]
-
-[[still-testing]]
-
-[[New Note]]
-
-[[One More Test]]
-
-class resources
+[[Class Resources|class-resources]]
 
 ---
 
