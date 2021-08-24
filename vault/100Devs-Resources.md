@@ -1,18 +1,14 @@
 ---
-id: QYtHz7f4vA4GyoAHqjgJb
-title: '#100Devs Resources'
+id: ca8UaASJsz8fOEBUhZdxp
+title: 100Devs-Resources
 desc: ''
-updated: 1629755364079
-created: 1629748863647
+updated: 1629775398700
+created: 1629758553062
 ---
-
-# #100Devs Resources
 
 Hi, I'm **bomboloni** (aka Sandy). This is a personal and idiosyncratic collection of links and resources that I've collected and found helpful as I [learn along with Leon](https://leonnoel.com/100devs/), and I thought that others might find it useful too, so here you are!
 
 This site is obviously still in it's early stages, and I imagine it continuing to evolve even as it becomes more 'finished'.
-
-# if I see this it worked!
 
 ## 🚀 Get Started
 
