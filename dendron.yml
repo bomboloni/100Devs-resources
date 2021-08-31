@@ -29,7 +29,7 @@ site:
   copyAssets: true
   siteHierarchies:
     - root
-  siteIndex: '100Devs-resources.md'
+  #   siteIndex: '100Devs-resources.md'
   siteRootDir: docs
   siteUrl: https://100devsresources.netlify.app/
   usePrettyRefs: true
