@@ -32,7 +32,7 @@ site:
   #   siteIndex: '100Devs-resources.md'
   siteRootDir: docs
   siteUrl: https://100devsresources.netlify.app/
-  siteFaviconPath: docs/favicon.ico
+  siteFaviconPath: docs
   usePrettyRefs: true
   title: 100Devs Resources
   description: We Go Get!
