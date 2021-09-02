@@ -2,7 +2,7 @@
 id: tqIyyJSPHy6G4siEH7chf
 title: Classes
 desc: ''
-updated: 1630548236219
+updated: 1630561865638
 created: 1630536703483
 ---
 
@@ -20,7 +20,7 @@ created: 1630536703483
 
 ---
 
-| Link                               | Class Name                                                                                                                   | Code                                                                                                           | Solutions                                                                                                             |
+| ▶️                                 | Class Name                                                                                                                   | Code                                                                                                           | Solutions                                                                                                             |
 | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ---- |
 | [01](https://youtu.be/YRemMgGfbKg) | Learn The Basics Of HTML!                                                                                                    | [📁](https://cdn.discordapp.com/attachments/738891289071714388/770761556316913684/class01-materials.zip)       |                                                                                                                       |
 | [02](https://youtu.be/N2VlXVZJIcY) | Come learn more about HTML!                                                                                                  | [📁](https://cdn.discordapp.com/attachments/738891289071714388/771486362478182420/class02-materials.zip)       | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/771547304209023026/brownies.html)                      |
