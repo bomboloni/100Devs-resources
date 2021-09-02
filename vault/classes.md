@@ -2,7 +2,7 @@
 id: tqIyyJSPHy6G4siEH7chf
 title: Classes
 desc: ''
-updated: 1630545001116
+updated: 1630548236219
 created: 1630536703483
 ---
 
@@ -23,7 +23,7 @@ created: 1630536703483
 | Link                               | Class Name                                                                                                                   | Code                                                                                                           | Solutions                                                                                                             |
 | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ---- |
 | [01](https://youtu.be/YRemMgGfbKg) | Learn The Basics Of HTML!                                                                                                    | [📁](https://cdn.discordapp.com/attachments/738891289071714388/770761556316913684/class01-materials.zip)       |                                                                                                                       |
-| [02](https://youtu.be/N2VlXVZJIcY) | Come learn more about HTML!                                                                                                  | [📁](https://cdn.discordapp.com/attachments/738891289071714388/771486362478182420/class02-materials.zip)       |                                                                                                                       |
+| [02](https://youtu.be/N2VlXVZJIcY) | Come learn more about HTML!                                                                                                  | [📁](https://cdn.discordapp.com/attachments/738891289071714388/771486362478182420/class02-materials.zip)       | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/771547304209023026/brownies.html)                      |
 | [03](https://youtu.be/h3wVQJ6SNfY) | Come Learn CSS!                                                                                                              | [📁](https://cdn.discordapp.com/attachments/738891289071714388/774030694124617728/class03-materials.zip)       | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/774092001330724904/class03-solutions.zip)              |
 | [04](https://youtu.be/xTNCtSRz6No) | Another Class                                                                                                                | [📁](https://cdn.discordapp.com/attachments/738891289071714388/775849935644000266/class04-materials.zip)       | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/775913009242701834/class04-solutions.zip)              |
 | [05](https://youtu.be/P3c3ZPNAen8) | Come Learn More CSS Layout!                                                                                                  | [📁](https://cdn.discordapp.com/attachments/738891289071714388/776567497117401088/class05-materials.zip)       | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/776637731916480552/class05-solutions.zip)              |
