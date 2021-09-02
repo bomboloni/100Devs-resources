@@ -2,17 +2,17 @@
 id: tqIyyJSPHy6G4siEH7chf
 title: Classes
 desc: ''
-updated: 1630540636934
+updated: 1630545001116
 created: 1630536703483
 ---
 
-### Cohort 1: 10/27/2020 - Ongoing
+## Cohort 1: Oct. 2020 - Ongoing
 
 **note:** Office Hours, Remo, and some other classes do not have VODs. Recent classes not yet on YouTube may be found on Twitch.
 
 [A Short Class on Getting a Job](https://www.youtube.com/watch?v=x3-O-Ond9AI) ^start
 
-[Front-end Crash Course](https://www.youtube.com/watch?v=eAe4GmiUm2I)
+[Front-end Crash Course](https://www.youtube.com/watch?v=eAe4GmiUm2I) [Code](super-review.zip)
 
 [Back-end Crash Course](https://www.youtube.com/watch?v=U8UnY9R9R0E)
 
@@ -20,92 +20,54 @@ created: 1630536703483
 
 ---
 
-[Class 01](https://youtu.be/YRemMgGfbKg) - Learn The Basics Of HTML!
-
-[Class 02](https://youtu.be/N2VlXVZJIcY) - Come learn more about HTML!
-
-[Class 03](https://youtu.be/h3wVQJ6SNfY) - Come Learn CSS!
-
-[Class 04](https://youtu.be/xTNCtSRz6No) - Come Learn CSS Layout!
-
-[Class 05](https://youtu.be/P3c3ZPNAen8) - Come Learn More CSS Layout!
-
-[Class 06](https://youtu.be/8A9OefW7dSk) - Come Learn Responsive CSS!
-
-[Class 07](https://youtu.be/V9MtaqT8Q_A) - Come Learn To Vomit Code and write BAD CSS!
-
-[Class 08](https://youtu.be/SV1eSbAWfWQ) - Come Learn More Responsive CSS Layout!
-
-[Class 09](https://youtu.be/22iEEZ8FSNM) - Come Learn Basic Javascript!
-
-[Class 10](https://youtu.be/cv8ZunU-zeU) - Come Learn Basic Javascript!
-
-[Class 11](https://youtu.be/6tyqwLnfjNs) - Come Learn More Javascript!
-
-[Class 12](https://youtu.be/LRPLnNLXG5o) - Come Learn How To Freelance!
-
-[Class 13](https://youtu.be/5-OEtJFbcXQ) - Come Learn Javascript Loops!
-
-[Class 14](https://youtu.be/7BIbHmeZBxg) - Come Practice Javascript Loops!
-
-[Class 15](https://youtu.be/GzYiUnRhfGQ) - Come Learn Javascript Arrays!
-
-[Class 16](https://youtu.be/p1sCXKeiA1Q) - Come Learn More About JS Arrays!
-
-[Class 17](https://youtu.be/ySLwyeaKPvQ) - Come Learn Javascript Objects!
-
-[Class 18](https://youtu.be/ekWRltHr_L8) - Come Learn More About JS Objects!
-
-[Class 19](https://youtu.be/oEdb5wmmAwk) - Come Review JS Objects!
-
-[Class 20](https://youtu.be/LJHIfPOboEE) - Come Learn About APIs with Javascript!
-
-[Class 21](https://youtu.be/ljdyXldzBKA) - Learn Git & Github
-
-[Class 22](https://youtu.be/yEfvsafFVXQ) - Come Practice Javascript!
-
-[Class 23](https://youtu.be/Iq3ipsUAfzE) - Come Practice Javascript and APIs!
-
-[Class 24](https://youtu.be/6bXPGp1uWxc) - Come Learn JS!
-
-[Class 25](https://youtu.be/pfYEqzU4ejk) - Javascript Object Oriented Programming (OOP)
-
-[Class 26](https://youtu.be/UbY5ni9BkM0) - Learn more OOP Javascript!
-
-[Class 27](https://youtu.be/9OJ9WL8qxZo) - Learn Practical JS OOP
-
-[Class 28](https://youtu.be/urjSM4lE6GQ) - The Secret To A Job In Tech! Free Software Engineering Bootcamp
-
-[Class 29](https://youtu.be/a01qCnUY5Xg) - The Secret To A Job In Tech Part 2
-
-[Class 30](https://youtu.be/xficb-1GyQY) - Node Crash Course!
-
-[Class 31](https://youtu.be/9OlDaCYCM8I) - The Javascript Event Loop
-
-[Class 32](https://youtu.be/46LPXys5vYE) - Learn To Build Your Own API!
-
-[Class 33](https://youtu.be/pjxJTWdVh-M) - Build APPs with Node & Express!
-
-[Class 34](https://youtu.be/pPZ2HhUUuwI) - Build A Simple CRUD APP with NODE & Express!
-
-[Class 35](https://youtu.be/2vd7v7NhMVU) - Review CRUD APPs with Node & Express!
-
-[Class 36](https://youtu.be/Aanqdky2JXY) - Commenting Our Todo List (Short Class)
-
-[Class 37](https://youtu.be/rz6OCYwMWiM) - Let's Add Make Our Todo List Follow MVC (model view controller)
-
-[Class 38](https://youtu.be/x0cs-5t84zU) - Add Microsoft Authentication To Your Node Apps Part 1!
-
-[Class 39](https://youtu.be/QmXXPB_q7QA) - Add Microsoft Authentication To Your Node Apps Part 2!
-
-[Class 40](https://youtu.be/x3-O-Ond9AI) - A Short Class On Getting A Job
-
-[Class 41](https://youtu.be/s2s9SaCLYHk) - Teamwork Makes The Dream Work! Team Project!
-
-[Class 42](https://youtu.be/TEIf-OW_PZw) - Let's Build A Social Network!! Team Project!
-
-Class 43 - no VOD
-
-Class 44 - no VOD
-
-[Class 45](https://youtu.be/WY5MQtAym5w) - Let's Setup The End Of Program ^end
+| Link                               | Class Name                                                                                                                   | Code                                                                                                           | Solutions                                                                                                             |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ---- |
+| [01](https://youtu.be/YRemMgGfbKg) | Learn The Basics Of HTML!                                                                                                    | [📁](https://cdn.discordapp.com/attachments/738891289071714388/770761556316913684/class01-materials.zip)       |                                                                                                                       |
+| [02](https://youtu.be/N2VlXVZJIcY) | Come learn more about HTML!                                                                                                  | [📁](https://cdn.discordapp.com/attachments/738891289071714388/771486362478182420/class02-materials.zip)       |                                                                                                                       |
+| [03](https://youtu.be/h3wVQJ6SNfY) | Come Learn CSS!                                                                                                              | [📁](https://cdn.discordapp.com/attachments/738891289071714388/774030694124617728/class03-materials.zip)       | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/774092001330724904/class03-solutions.zip)              |
+| [04](https://youtu.be/xTNCtSRz6No) | Another Class                                                                                                                | [📁](https://cdn.discordapp.com/attachments/738891289071714388/775849935644000266/class04-materials.zip)       | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/775913009242701834/class04-solutions.zip)              |
+| [05](https://youtu.be/P3c3ZPNAen8) | Come Learn More CSS Layout!                                                                                                  | [📁](https://cdn.discordapp.com/attachments/738891289071714388/776567497117401088/class05-materials.zip)       | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/776637731916480552/class05-solutions.zip)              |
+|                                    | Office Hours                                                                                                                 | [📁](https://cdn.discordapp.com/attachments/738891289071714388/777274739781009468/100devs-officehours-001.zip) |
+| [06](https://youtu.be/8A9OefW7dSk) | Come Learn Responsive CSS!                                                                                                   | [📁](https://cdn.discordapp.com/attachments/738891289071714388/778386866604998676/class06-materials.zip)       | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/778455175021985822/class06-solutions.zip)              |
+| [07](https://youtu.be/V9MtaqT8Q_A) | Come Learn To Vomit Code and write BAD CSS!                                                                                  | [📁](https://cdn.discordapp.com/attachments/738891289071714388/779115346338512937/class07-materials.zip)       | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/779175549805002762/class07-solutions.zip)              |
+| [08](https://youtu.be/SV1eSbAWfWQ) | Come Learn More Responsive CSS Layout!                                                                                       | [📁](https://cdn.discordapp.com/attachments/738891289071714388/780927359620218880/class08-materials.zip)       |                                                                                                                       |
+| [09](https://youtu.be/22iEEZ8FSNM) | Come Learn Basic Javascript!                                                                                                 | [📁](https://cdn.discordapp.com/attachments/738891289071714388/784184814042480701/class09-materials.zip)       |                                                                                                                       |
+| [10](https://youtu.be/cv8ZunU-zeU) | Come Learn Basic Javascript!                                                                                                 | [📁](https://cdn.discordapp.com/attachments/738891289071714388/786000618023157840/class10-materials.zip)       | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/786064227000909854/class10-solutions.zip)              |
+| [11](https://youtu.be/6tyqwLnfjNs) | Come Learn More Javascript!                                                                                                  | [📁](https://cdn.discordapp.com/attachments/738891289071714388/786720015440543794/class11-materials.zip)       | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/786785111206395924/class11-solutions.zip)              |
+|                                    | Extra Bring It Home Practice                                                                                                 | [📁](https://cdn.discordapp.com/attachments/738891289071714388/787433016045076520/bring-it-home-practice.zip)  |
+| [12](https://youtu.be/LRPLnNLXG5o) | Come Learn How To Freelance!                                                                                                 | [📁](https://cdn.discordapp.com/attachments/738891289071714388/788539957043396608/class12-materials.zip)       |                                                                                                                       |
+| [13](https://youtu.be/5-OEtJFbcXQ) | Come Learn Javascript Loops!                                                                                                 | [📁](https://cdn.discordapp.com/attachments/738891289071714388/789258142810505216/class13-materials.zip)       | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/789319033669156894/class13-solutions.zip)              |
+| [14](https://youtu.be/7BIbHmeZBxg) | Come Practice Javascript Loops!                                                                                              | [📁](https://cdn.discordapp.com/attachments/738891289071714388/796868929233485885/class14-materials.zip)       | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/796931910186041354/class14-solutions.zip)              |
+| [15](https://youtu.be/GzYiUnRhfGQ) | Come Learn Javascript Arrays!                                                                                                | [📁](https://cdn.discordapp.com/attachments/738891289071714388/798680442257145856/class15-materials.zip)       | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/798745031593689128/class15-solutions.zip)              |
+| [16](https://youtu.be/p1sCXKeiA1Q) | Come Learn More About JS Arrays!                                                                                             | [📁](https://cdn.discordapp.com/attachments/738891289071714388/799405815748362310/class16-materials.zip)       | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/799463875325722664/class16-solutions.zip)              |
+| [17](https://youtu.be/ySLwyeaKPvQ) | Come Learn Javascript Objects!                                                                                               | [📁](https://cdn.discordapp.com/attachments/738891289071714388/801217458789810186/class17-materials.zip)       | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/801279834872348732/class17-solutions.zip)              |
+| [18](https://youtu.be/ekWRltHr_L8) | Come Learn More About JS Objects!                                                                                            | [📁](https://cdn.discordapp.com/attachments/738891289071714388/801935064627675166/class18-materials.zip)       | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/802007039907069972/class18-solutions.zip)              |
+|                                    | Office Hours                                                                                                                 |                                                                                                                | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/802632865102823424/class18-office-hours-solutions.zip) |
+| [19](https://youtu.be/oEdb5wmmAwk) | Come Review JS Objects!                                                                                                      | [📁](https://cdn.discordapp.com/attachments/738891289071714388/803754182866763826/class19-materials.zip)       | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/803827546193264650/class19-solutions.zip)              |
+| [20](https://youtu.be/LJHIfPOboEE) | Come Learn About APIs with Javascript!                                                                                       | [📁](https://cdn.discordapp.com/attachments/738891289071714388/804480220471099432/class20-materials.zip)       | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/804553670666616862/class20-solutions.zip)              |
+|                                    | Office Hours - [API template](https://cdn.discordapp.com/attachments/738891289071714388/805113288140390412/api-template.zip) |                                                                                                                | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/805169461744369694/office-hours-solutions.zip)         |
+| [21](https://youtu.be/ljdyXldzBKA) | Learn Git & Github                                                                                                           |                                                                                                                |                                                                                                                       |
+| [22](https://youtu.be/yEfvsafFVXQ) | Come Practice Javascript!                                                                                                    | [📁](https://cdn.discordapp.com/attachments/738891289071714388/807019823891611668/class22-materials.zip)       | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/807091018259628073/class22-solutions.zip)              |
+| [23](https://youtu.be/Iq3ipsUAfzE) | Come Practice Javascript and APIs!                                                                                           | [📁](https://cdn.discordapp.com/attachments/738891289071714388/808832341169799168/class23-materials.zip)       | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/808914795146641448/class23-solutions.zip)              |
+| [24](https://youtu.be/6bXPGp1uWxc) | Come Learn JS!                                                                                                               | [📁](https://cdn.discordapp.com/attachments/738891289071714388/813903780445159484/class24-materials.zip)       | [🔑](https://cdn.discordapp.com/attachments/738891289071714388/813970224645931048/class24-solutions.zip)              |
+| [25](https://youtu.be/pfYEqzU4ejk) | Javascript Object Oriented Programming (OOP)                                                                                 | [📁](https://cdn.discordapp.com/attachments/738891289071714388/814628799147671593/class25-materials.zip)       |                                                                                                                       |
+| [26](https://youtu.be/UbY5ni9BkM0) | Learn more OOP Javascript!                                                                                                   | [📁](https://cdn.discordapp.com/attachments/738891289071714388/816442185770991646/class26-materials.zip)       |                                                                                                                       |
+| [27](https://youtu.be/9OJ9WL8qxZo) | Learn Practical JS OOP                                                                                                       | [📁](https://cdn.discordapp.com/attachments/738891289071714388/817166225616535582/class27-materials.zip)       |                                                                                                                       |
+| [28](https://youtu.be/urjSM4lE6GQ) | The Secret To A Job In Tech! Free Software Engineering Bootcamp                                                              |                                                                                                                |                                                                                                                       |
+| [29](https://youtu.be/a01qCnUY5Xg) | The Secret To A Job In Tech Part 2                                                                                           |                                                                                                                |                                                                                                                       |
+| [30](https://youtu.be/xficb-1GyQY) | Node Crash Course!                                                                                                           | [📁](https://cdn.discordapp.com/attachments/738891289071714388/821495987767083029/class30-materials.zip)       |                                                                                                                       |
+| [31](https://youtu.be/9OlDaCYCM8I) | The Javascript Event Loop                                                                                                    | [📁](https://cdn.discordapp.com/attachments/738891289071714388/822221906325143562/class31-materials.zip)       |                                                                                                                       |
+| [32](https://youtu.be/46LPXys5vYE) | Learn To Build Your Own API!                                                                                                 | [📁](https://cdn.discordapp.com/attachments/738891289071714388/824032752437035109/class32-materials.zip)       |                                                                                                                       |
+| [33](https://youtu.be/pjxJTWdVh-M) | Build APPs with Node & Express!                                                                                              |                                                                                                                |                                                                                                                       |
+| [34](https://youtu.be/pPZ2HhUUuwI) | Build A Simple CRUD APP with NODE & Express!                                                                                 |                                                                                                                |                                                                                                                       |
+| [35](https://youtu.be/2vd7v7NhMVU) | Review CRUD APPs with Node & Express!                                                                                        |                                                                                                                |                                                                                                                       |
+| [36](https://youtu.be/Aanqdky2JXY) | Commenting Our Todo List (Short Class)                                                                                       |                                                                                                                |                                                                                                                       |
+| [37](https://youtu.be/rz6OCYwMWiM) | Let's Add Make Our Todo List Follow MVC (model view controller)                                                              |                                                                                                                |                                                                                                                       |
+| [38](https://youtu.be/x0cs-5t84zU) | Add Microsoft Authentication To Your Node Apps Part 1!                                                                       |                                                                                                                |                                                                                                                       |
+| [39](https://youtu.be/QmXXPB_q7QA) | Add Microsoft Authentication To Your Node Apps Part 2!                                                                       |                                                                                                                |                                                                                                                       |
+| [40](https://youtu.be/x3-O-Ond9AI) | A Short Class On Getting A Job                                                                                               |                                                                                                                |                                                                                                                       |
+| [41](https://youtu.be/s2s9SaCLYHk) | Teamwork Makes The Dream Work! Team Project!                                                                                 |                                                                                                                |                                                                                                                       |
+| [42](https://youtu.be/TEIf-OW_PZw) | Let's Build A Social Network!! Team Project!                                                                                 |                                                                                                                |                                                                                                                       |
+|                                    | Class 43 - no VOD                                                                                                            |                                                                                                                |                                                                                                                       |
+|                                    | Class 44 - no VOD                                                                                                            |                                                                                                                |                                                                                                                       |
+| [45](https://youtu.be/WY5MQtAym5w) | Let's Setup The End Of Program                                                                                               |                                                                                                                |                                                                                                                       | ^end |
