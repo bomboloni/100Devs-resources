@@ -1,36 +1,22 @@
 ---
-id: ca8UaASJsz8fOEBUhZdxp
-title: 100Devs-Resources
+id: tqIyyJSPHy6G4siEH7chf
+title: Classes
 desc: ''
-updated: 1629775398700
-created: 1629758553062
+updated: 1630540636934
+created: 1630536703483
 ---
 
-Hi, I'm **bomboloni** (aka Sandy). This is a personal and idiosyncratic collection of links and resources that I've collected and found helpful as I [learn along with Leon](https://leonnoel.com/100devs/), and I thought that others might find it useful too, so here you are!
+### Cohort 1: 10/27/2020 - Ongoing
 
-This site is obviously still in it's early stages, and I imagine it continuing to evolve even as it becomes more 'finished'.
+**note:** Office Hours, Remo, and some other classes do not have VODs. Recent classes not yet on YouTube may be found on Twitch.
 
-## 🚀 Get Started
-
-[Leon's #100Devs Page](https://leonnoel.com/100devs/)
-
-[Learn w/Leon and Friends on Discord](https://leonnoel.com/discord)
-
-[LearnWithLeon on Twitch](https://www.twitch.tv/learnwithleon) - (also has VODs not yet on YouTube)
-
-[Leon's YouTube Channel](https://www.youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw)
-
-## 📚 Topics
-
-## 🧑🏽‍💻 Classes
-
-[A Short Class on Getting a Job](https://www.youtube.com/watch?v=x3-O-Ond9AI)
+[A Short Class on Getting a Job](https://www.youtube.com/watch?v=x3-O-Ond9AI) ^start
 
 [Front-end Crash Course](https://www.youtube.com/watch?v=eAe4GmiUm2I)
 
 [Back-end Crash Course](https://www.youtube.com/watch?v=U8UnY9R9R0E)
 
-[[Class Resources|class-resources]]
+[[classes.resources]]
 
 ---
 
@@ -122,4 +108,4 @@ Class 43 - no VOD
 
 Class 44 - no VOD
 
-[Class 45](https://youtu.be/WY5MQtAym5w) - Let's Setup The End Of Program
+[Class 45](https://youtu.be/WY5MQtAym5w) - Let's Setup The End Of Program ^end
