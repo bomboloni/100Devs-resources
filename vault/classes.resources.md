@@ -2,7 +2,7 @@
 id: bvFhETbrskHwgTG05lnNq
 title: Class Resources & Homework
 desc: ''
-updated: 1630555822819
+updated: 1630571102152
 created: 1630538824244
 ---
 
@@ -14,9 +14,9 @@ You can find all of Leon's slide presentations here. Pro Tip: they are useful fo
 
 A free flashcard app. Don't pay for the iOS version - you can make an account and use it from Safari. Pro Tip: VSCode has an Anki extension that makes making some types of cards easier.
 
-### [The Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg)
+### [The Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg) ^check
 
-### [THE BANK](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c)
+### [THE BANK](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c) ^bank
 
 ---
 
