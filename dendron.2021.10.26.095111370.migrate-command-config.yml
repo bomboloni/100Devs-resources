@@ -1,0 +1,51 @@
+maxPreviewsCached: 10
+vaults:
+    -
+        fsPath: vault
+useFMTitle: true
+useNoteTitleForLink: true
+noAutoCreateOnDefinition: true
+noLegacyNoteRef: true
+noXVaultWikiLink: true
+mermaid: true
+useKatex: true
+autoFoldFrontmatter: true
+usePrettyRefs: true
+dev:
+    enablePreviewV2: true
+journal:
+    dailyDomain: daily
+    name: journal
+    dateFormat: y.MM.dd
+    addBehavior: childOfDomain
+    firstDayOfWeek: 1
+scratch:
+    name: scratch
+    dateFormat: y.MM.dd.HHmmss
+    addBehavior: asOwnDomain
+site:
+    copyAssets: true
+    siteHierarchies:
+        - root
+    siteRootDir: docs
+    siteUrl: 'https://100devsresources.netlify.app/'
+    usePrettyRefs: true
+    title: 100Devs Resources
+    description: We Go Get!
+version: 2
+initializeRemoteVaults: true
+dendronVersion: 0.64.0
+commands:
+    lookup:
+        note:
+            selectionMode: extract
+            confirmVaultOnCreate: false
+            leaveTrace: false
+    randomNote: {}
+    insertNote:
+        initialValue: templates
+    insertNoteLink:
+        aliasMode: none
+        enableMultiSelect: false
+    insertNoteIndex:
+        enableMarker: false

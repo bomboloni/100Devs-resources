@@ -1,0 +1,39 @@
+version: 1
+vaults:
+  - fsPath: vault
+useFMTitle: true
+useNoteTitleForLink: true
+noAutoCreateOnDefinition: true
+noLegacyNoteRef: true
+noXVaultWikiLink: true
+lookupConfirmVaultOnCreate: false
+mermaid: true
+useKatex: true
+autoFoldFrontmatter: true
+dev:
+  enablePreviewV2: true
+lookup:
+  note:
+    selectionType: selectionExtract
+journal:
+  dailyDomain: daily
+  name: journal
+  dateFormat: y.MM.dd
+  addBehavior: childOfDomain
+  firstDayOfWeek: 1
+scratch:
+  name: scratch
+  dateFormat: y.MM.dd.HHmmss
+  addBehavior: asOwnDomain
+site:
+  copyAssets: true
+  siteHierarchies:
+    - root
+  #   siteIndex: '100Devs-resources.md'
+  siteRootDir: docs
+  siteUrl: https://100devsresources.netlify.app/
+  usePrettyRefs: true
+  title: 100Devs Resources
+  description: We Go Get!
+initializeRemoteVaults: true
+dendronVersion: 0.56.0
